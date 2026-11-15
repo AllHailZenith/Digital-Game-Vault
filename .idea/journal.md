@@ -11,3 +11,6 @@ Using the terminal was a little different at first, but the commands made settin
 
 Phase 3
 The main difference between HTML and JSX is that JSX allows me to write JavaScript inside my UI code. Props allow the GameItem component to be reused with different game objects instead of having to create separate code for every game.
+
+Phase 4
+One challenge was figuring out how to import the functions and data from another file. I checked that the imports matched the exports and made sure the correct array was being passed into the .map() method. This helped me understand how the data moves from JavaScript logic into React components.
